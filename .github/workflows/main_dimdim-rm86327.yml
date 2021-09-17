@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dimdim-rm86327'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0678767E13145ACB8A983C43168EB34 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A2C2D4AB6BD455BBE5B73BDC83DD9CC }}
           package: .
